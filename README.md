@@ -9,7 +9,7 @@
   <a href="mailto:richardcheung1216@gmail.com">
     <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
   </a>
-  <a href="https://t.me/@richardcheung1216">
+  <a href="https://t.me/richardcheung1216">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://richard.dev/">
