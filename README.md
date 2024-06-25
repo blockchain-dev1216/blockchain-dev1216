@@ -18,12 +18,12 @@
 </div>
 
 <div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xTijan&style=flat-square&color=blue" alt="Profiel Views"/>
+  <img src="https://komarev.com/ghpvc/?username=blockchain-dev1216&style=flat-square&color=blue" alt="Profiel Views"/>
 </div>
 
 
 ## :man_technologist: About Me:
-I am a passionate **blockchain developer** from Slovenia, with almost 2 years of experience in blockchain development, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!
+I am a passionate **blockchain developer** from US, with almost 6 years of experience in blockchain development, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!
 - 🔭 I’m currently working on more blockchain and web3 projects.
 - 🌱 I’m currently learning more about advanced DeFi and exploring more DeFi protocols (their smart contracts).
 - 💻 I'm looking for a freelancing job, if you want to hire me, please send me an [email](mailto:richardcheung1216@gmail.com).
