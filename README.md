@@ -23,10 +23,15 @@
 
 
 ## :man_technologist: About Me:
-I am a passionate **blockchain developer** from US, with almost 6 years of experience in blockchain development, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!
+I am a passionate **blockchain developer** from US, with over 6 years of experience in blockchain development, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!
 - 🔭 I’m currently working on more blockchain and web3 projects.
-- 🌱 I’m currently learning more about advanced DeFi and exploring more DeFi protocols (their smart contracts).
-- 💻 I'm looking for a freelancing job, if you want to hire me, please send me an [email](mailto:richardcheung1216@gmail.com).
+- 🌱 Proficient in Block technologies like NFT, DAO, DEFI, DEX, Crypto Game on EVM, Solana, Terra, Cosmos platforms<br/>
+- 🌱 Proficient in front-end technologies like React, React Native, Next.js, Remix, Angular, and Vue.js, Nuxt.js, Flutter, Dart, Swift<br/> 
+- 🌱 Proficient in back-end technologies like Node.js, Nest.js, Golang, GraphQL, Python, and PHP<br/>
+- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
+- 😍 Developed some AI Apps and integrated with web and ChatGPT.
+- 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
+- 💻 I'm looking for a new opportunity, if you want to hire me, please send me an [email](mailto:richardcheung1216@gmail.com).
 - 💬 Ask me about anything blockchain related :smile:.
 - 📫 How to reach me: email me [richardcheung1216@gmail.com](mailto:richardcheung1216@gmail.com), you can also contact me from my [website](https://richard.dev).
 
@@ -46,6 +51,7 @@ I am a passionate **blockchain developer** from US, with almost 6 years of exper
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+      <img src="./assets/react-native.svg" alt="react-native" width="40" height="40" />&nbsp;
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="40" height="40" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS" width="40" height="40"/>&nbsp;
       <img src="https://miro.medium.com/max/700/1*iXsCHAHPN7xFAWuuWjE6-Q.png" alt="nextjs" width="40" height="40" />&nbsp;
@@ -83,6 +89,37 @@ I am a passionate **blockchain developer** from US, with almost 6 years of exper
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="YARN" alt="YARN" width="40" height="40"/>&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>&nbsp;
 </div>
+
+## My personal values and work ethic
+✨ I want to build strong relationships with my clients.
+
+✨ I believe that a good working relationship is built on mutual trust and respect.
+
+✨ I value open communication and strive to keep you updated on progress every step of the way.
+
+✨ I am a team player and enjoy collaborating with others to achieve a common goal.
+
+✨ Outside of work, I am an avid sports fan, especially when it comes to basketball.
+
+✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
+
+✨ Preferred JS and TS frameworks ✔React.js, ✔React Native, ✔Next.js, Nuxt.js, ✔Vue.js, ✔Node.js, ✔Nest.js, ✔GraphQL
+
+✨ Preferred Web3 technologies ✔NFT, ✔DAO, ✔DEFI, ✔DEX, ✔Crypto Game on ✔EVM, ✔Solana, ✔Terra, ✔Cosmos platforms
+
+✨ Preferred PHP frameworks ✔Laravel, ✔Codeigniter, ✔Sympony, ✔Yii
+       
+✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
+          
+✨ Preferred style frameworks    ✔Tailwind CSS, ✔Bootstrap, ✔Material-UI
+         
+✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL
+         
+✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
+         
+✨ Web hosting options    ✔ Azure service   ✔ AWS Services - EC2, S3, and Lambda    ✔ cPanel service, ✔GoDaddy
+         
+✨ Payment gateway integration  ✔Stripe, ✔PayPal
  
 
   
