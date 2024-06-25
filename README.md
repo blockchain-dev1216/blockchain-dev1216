@@ -23,7 +23,7 @@
 
 
 ## :man_technologist: About Me:
-I am a passionate **blockchain developer** from US, with over 6 years of experience in blockchain development, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!
+I am a passionate **blockchain developer** from US, with over 10 years of experience in blockchain & web development, enthusiastic about blockchain and web3. I'm looking forward to learn something new everyday and contribute to the industry!
 - 🔭 I’m currently working on more blockchain and web3 projects.
 - 🌱 Proficient in Block technologies like NFT, DAO, DEFI, DEX, Crypto Game on EVM, Solana, Terra, Cosmos platforms<br/>
 - 🌱 Proficient in front-end technologies like React, React Native, Next.js, Remix, Angular, and Vue.js, Nuxt.js, Flutter, Dart, Swift<br/> 
