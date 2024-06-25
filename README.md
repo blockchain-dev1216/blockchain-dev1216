@@ -63,7 +63,7 @@ I am a passionate **blockchain developer** from US, with almost 6 years of exper
 <div>
     <h2>DBMS</h2>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />&nbsp;
-      <img src="https://www.computerhope.com/jargon/p/postgresql.jpg" alt="postgresql" width="40" height="40" />&nbsp;
+      <img src="https://www.freeimages.com/vector/postgresql-logo-5505221" alt="postgresql" width="40" height="40" />&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />&nbsp;
       <img src="https://user-images.githubusercontent.com/54184905/102911788-9709a000-448d-11eb-9161-bac188f78110.png" alt="dynamodb" width="70" height="40" />&nbsp;
 </div>
