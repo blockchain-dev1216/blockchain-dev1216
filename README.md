@@ -33,6 +33,7 @@ I am a passionate **blockchain developer** from US, with almost 6 years of exper
 
 ## :hammer_and_wrench: Languages and Tools:
 <div>
+  <h2>Language</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -41,6 +42,7 @@ I am a passionate **blockchain developer** from US, with almost 6 years of exper
       <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />&nbsp;
 </div>
 <div>
+  <h2>Frontend</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -52,18 +54,21 @@ I am a passionate **blockchain developer** from US, with almost 6 years of exper
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="40" />&nbsp;
 </div>
 <div>
+  <h2>Backend</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
       <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nestjs" width="65" height="40"/>&nbsp;
       <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="golang" width="45" height="40"/>&nbsp;
       <img src="https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo-e1588009010920.png" alt="javascript" width="40" height="40" />&nbsp;
 </div>
 <div>
+    <h2>DBMS</h2>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />&nbsp;
       <img src="https://www.computerhope.com/jargon/p/postgresql.jpg" alt="postgresql" width="40" height="40" />&nbsp;
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />&nbsp;
       <img src="https://user-images.githubusercontent.com/54184905/102911788-9709a000-448d-11eb-9161-bac188f78110.png" alt="dynamodb" width="70" height="40" />&nbsp;
 </div>
 <div>
+    <h2>Blockchain</h2>
   <img src="https://seeklogo.com/images/W/web3js-logo-62DEE79B50-seeklogo.com.png" width=40 height=40 alt="Web3js" title="Web3js" />
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032" width=40 height=40 alt="Ethers" title="Ethers" />
   <img src="https://seeklogo.com/images/T/truffle-logo-357454171D-seeklogo.com.png" title="Truffle" alt="Truffle" width=40 height=40 />
@@ -72,6 +77,7 @@ I am a passionate **blockchain developer** from US, with almost 6 years of exper
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Chainlink_Logo.png" title="Chainlink" alt="Chainlink" width="40" height="40" />
 </div>
 <div>
+    <h2>Software Tools & Services</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" title="YARN" alt="YARN" width="40" height="40"/>&nbsp;
